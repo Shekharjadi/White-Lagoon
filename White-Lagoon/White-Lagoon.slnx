@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="White-Lagoon.Domain/White-Lagoon.Domain.csproj" />
   <Project Path="White-Lagoon/White-Lagoon.csproj" />
+  <Project Path="White_Lagoon.Application/White_Lagoon.Application.csproj" />
+  <Project Path="White_Lagoon.Infrastructure/White_Lagoon.Infrastructure.csproj" />
 </Solution>
